@@ -1,7 +1,7 @@
 
   # Portfolio website
 
-  This is a code bundle for Portfolio website. The original project is available at https://www.figma.com/design/xg1VhIRsYmv0v34yJvOEyo/Portfolio-website.
+  This is a code bundle for Portfolio website. The original project is available at https://stage-derby-80872404.figma.site/
 
   ## Running the code
 
